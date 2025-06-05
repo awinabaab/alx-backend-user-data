@@ -5,7 +5,7 @@
   - How to return various HTTP status codes
 
 # Simple API
-  Simple HTTP API for playing with User model
+  Simple HTTP API with a session based authentication service for playing with User model
 
 ## Files
   - `app.py`: entry point of the API
